@@ -2,8 +2,6 @@
     <a href="https://github.com/pacojq/">Paco Juan Quirós</a>
 </h1>
 
----
-
 <p align="center">
   <strong>
     Video game programmer at <a href="https://meteorbytestudios.com">Meteorbyte Studios</a>
