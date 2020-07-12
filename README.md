@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 style="border-bottom: none;" align="center">
+    <a href="https://github.com/pacojq/">Paco Juan Quirós</a>
+</h1>
 
-<!--
-**pacojq/pacojq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>
+    Video game programmer at <a href="https://meteorbytestudios.com">Meteorbyte Studios</a>
+    <br>
+    <i>Interested in game engines and compilers.</i>
+  </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=%40_thisIsPJ&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2F_thisIsPJ">
+  
+  <a href="Paco-Juan-Quiros_Game-Programmer-Resume.pdf">
+  <img alt="Twitter URL" src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=red&style=flat-square"></a>
+</p>
+
