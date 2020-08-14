@@ -14,7 +14,7 @@
 
 ## Experience
 
-|   |   |   |   |
+| Title | Developer | Platforms | Release |
 | - | - | - | - |
 | *Attrah* | Meteorbyte Studios. | TBA | TBA |
 | [*RogueCube*](https://www.ratalaikagames.com/games/roguecube.php) | Bipolar Dawn, Ratalaika Games. | [PS4](https://store.playstation.com/en-gb/product/EP0896-CUSA14184_00-RATAGAMROGUECUBE), [Xbox](https://www.microsoft.com/en-us/p/roguecube/9n0rzlp9cqhg?activetab=pivot:overviewtab), [Switch](https://www.nintendo.com/games/detail/roguecube-switch/) | 2020 |
@@ -23,7 +23,7 @@
 
 ## Personal Projects
 
-|   |   |
+| Title | Description |
 | - | - |
 | [*Xaloc Engine*](https://github.com/pacojq/Xaloc) | In-development 2D engine written in C++, with C# scripting using mono. |
 | [*Seagull*](https://github.com/pacojq/Seagull) | Toy programming language, compiling to intermediate language. Targeting MAPL Virtual Machine, an academic virtual machine built at University of Oviedo. |
