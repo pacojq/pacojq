@@ -10,23 +10,18 @@
   </strong>
 </p>
 
----
+## Realeased games
 
-## Experience
+- ***Attrah***, Meteorbyte Studios. TBA.
+- [***RogueCube***](https://www.ratalaikagames.com/games/roguecube.php), Bipolar Dawn and Ratalaika Games (2020). [PS4](https://store.playstation.com/en-gb/product/EP0896-CUSA14184_00-RATAGAMROGUECUBE), [Xbox](https://www.microsoft.com/en-us/p/roguecube/9n0rzlp9cqhg?activetab=pivot:overviewtab), [Switch](https://www.nintendo.com/games/detail/roguecube-switch/).
+- [***Woodpunk***](https://meteorbytestudios.com/games/), Meteorbyte Studios (2018). [PC](https://store.steampowered.com/app/878420/Woodpunk/).
 
-| Title | Developer | Platforms | Release |
-| - | - | - | - |
-| *Attrah* | Meteorbyte Studios. | TBA | TBA |
-| [*RogueCube*](https://www.ratalaikagames.com/games/roguecube.php) | Bipolar Dawn, Ratalaika Games. | [PS4](https://store.playstation.com/en-gb/product/EP0896-CUSA14184_00-RATAGAMROGUECUBE), [Xbox](https://www.microsoft.com/en-us/p/roguecube/9n0rzlp9cqhg?activetab=pivot:overviewtab), [Switch](https://www.nintendo.com/games/detail/roguecube-switch/) | 2020 |
-| [*Woodpunk*](https://meteorbytestudios.com/games/) | Meteorbyte Studios. | [PC](https://store.steampowered.com/app/878420/Woodpunk/) | 2018 |
+For a detailed view of my professional experience, please refer to my [resume](https://github.com/pacojq/pacojq/blob/master/Paco-Juan-Quiros_Game-Programmer-Resume.pdf).
 
+## Personal projects
 
-## Personal Projects
-
-| Title | Description |
-| - | - |
-| [*Xaloc Engine*](https://github.com/pacojq/Xaloc) | In-development 2D engine written in C++, with C# scripting using mono. |
-| [*Seagull*](https://github.com/pacojq/Seagull) | Toy programming language, compiling to intermediate language. Targeting MAPL Virtual Machine, an academic virtual machine built at University of Oviedo. |
+- **[Xaloc Engine](https://github.com/pacojq/Xaloc).** In-development 2D engine written in C++, with C# scripting using mono.
+- **[Seagull](https://github.com/pacojq/Seagull).** Toy programming language, compiling to intermediate language. Targeting MAPL Virtual Machine, an academic virtual machine built at University of Oviedo.
 
 <br>
 
