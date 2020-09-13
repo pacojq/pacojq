@@ -16,7 +16,7 @@
   </p>
 </p>
 
-## Realeased games
+## Released games
 
 - ***Attrah***, Meteorbyte Studios. TBA.
 - [***RogueCube***](https://www.ratalaikagames.com/games/roguecube.php), Bipolar Dawn and Ratalaika Games (2020). [PS4](https://store.playstation.com/en-gb/product/EP0896-CUSA14184_00-RATAGAMROGUECUBE), [Xbox](https://www.microsoft.com/en-us/p/roguecube/9n0rzlp9cqhg?activetab=pivot:overviewtab), [Switch](https://www.nintendo.com/games/detail/roguecube-switch/).
