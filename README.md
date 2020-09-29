@@ -19,8 +19,9 @@
 ## Released games
 
 - ***Attrah***, Meteorbyte Studios. TBA.
+- [***World Soccer Strikers '91***](https://meteorbytestudios.com/games/publishing/world-soccer-strikers-91/), Bipolar Dawn and Meteorbyte Publishing (2020). [PC](https://store.steampowered.com/app/877870/World_Soccer_Strikers_91/), Consoles TBA.
 - [***RogueCube***](https://www.ratalaikagames.com/games/roguecube.php), Bipolar Dawn and Ratalaika Games (2020). [PS4](https://store.playstation.com/en-gb/product/EP0896-CUSA14184_00-RATAGAMROGUECUBE), [Xbox](https://www.microsoft.com/en-us/p/roguecube/9n0rzlp9cqhg?activetab=pivot:overviewtab), [Switch](https://www.nintendo.com/games/detail/roguecube-switch/).
-- [***Woodpunk***](https://meteorbytestudios.com/games/), Meteorbyte Studios (2018). [PC](https://store.steampowered.com/app/878420/Woodpunk/).
+- [***Woodpunk***](https://meteorbytestudios.com/games/our-games/woodpunk/), Meteorbyte Studios (2018). [PC](https://store.steampowered.com/app/878420/Woodpunk/).
 
 For a detailed view of my professional experience, please refer to my [resume](https://github.com/pacojq/pacojq/blob/master/Paco-Juan-Quiros_Game-Programmer-Resume.pdf).
 
