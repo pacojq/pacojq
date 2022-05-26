@@ -19,7 +19,9 @@
 ## Released games
 
 - ***Attrah***, Meteorbyte Studios. TBA.
-- [***DeckRX: The Deckbuilding Racing Game***](https://meteorbytestudios.com/2021/04/26/deckrx/), Meteorbyte Studios (To be Released, 2022). [PC](https://store.steampowered.com/app/1529180/Deck_RX_The_Deckbuilding_Racing_Game/), consoles.
+- [***Running on Magic***](https://meteorbytestudios.com/running-on-magic/), Gusarapo Games, Meteorbyte Publishing (To be Released, 2022). [PC](https://store.steampowered.com/app/1961260/Running_on_Magic/), consoles TBA.
+- [***Ignited Steel: Mech Tactics***](https://meteorbytestudios.com/ignitedsteel/), Yokaicade, Meteorbyte Publishing (2022). [PC](https://store.steampowered.com/app/1550740/Ignited_Steel_Mech_Tactics/), consoles TBA.
+- [***DeckRX: The Deckbuilding Racing Game***](https://meteorbytestudios.com/2021/04/26/deckrx/), Meteorbyte Studios (To be Released, 2023). [PC](https://store.steampowered.com/app/1529180/Deck_RX_The_Deckbuilding_Racing_Game/), consoles.
 - [***World Soccer Strikers '91***](https://meteorbytestudios.com/games/publishing/world-soccer-strikers-91/), Bipolar Dawn and Meteorbyte Publishing (2020, 2021). [PC](https://store.steampowered.com/app/877870/World_Soccer_Strikers_91/), PS4, PS5, [Xbox One, Xbox Series X|S](https://www.microsoft.com/en-us/p/world-soccer-strikers-91/9MX0CC26JG5K?activetab=pivot:overviewtab), [Switch](https://www.nintendo.com/games/detail/world-soccer-strikers-91-switch/).
 - [***RogueCube***](https://www.ratalaikagames.com/games/roguecube.php), Bipolar Dawn and Ratalaika Games (2020). [PS4, PS5](https://store.playstation.com/en-gb/product/EP0896-CUSA14184_00-RATAGAMROGUECUBE), [Xbox One, Xbox Series X|S](https://www.microsoft.com/en-us/p/roguecube/9n0rzlp9cqhg?activetab=pivot:overviewtab), [Switch](https://www.nintendo.com/games/detail/roguecube-switch/).
 - [***Woodpunk***](https://meteorbytestudios.com/games/our-games/woodpunk/), Meteorbyte Studios (2018). [PC](https://store.steampowered.com/app/878420/Woodpunk/).
