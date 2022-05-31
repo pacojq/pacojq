@@ -33,3 +33,6 @@ For a detailed view of my professional experience, please refer to my [resume](h
 - **[Xaloc Engine](https://github.com/pacojq/Xaloc).** In-development 2D engine written in C++, with C# scripting using mono.
 - **[Seagull](https://github.com/pacojq/Seagull).** Toy programming language, compiling to intermediate language. Targeting MAPL Virtual Machine, an academic virtual machine built at University of Oviedo.
 
+## Proprietary Tools
+
+- **Rosetta.** Localization tool written in C++, using XML, OpenGL and [ImGui](https://github.com/ocornut/imgui). Used for the game localization process in Meteorbyte Studios releases.
