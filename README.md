@@ -19,7 +19,7 @@
 ## Released games
 
 - ***Attrah***, Meteorbyte Studios. TBA.
-- [***Running on Magic***](https://meteorbytestudios.com/running-on-magic/), Gusarapo Games, Meteorbyte Publishing (To be Released, 2022). [PC](https://store.steampowered.com/app/1961260/Running_on_Magic/), consoles TBA.
+- [***Running on Magic***](https://meteorbytestudios.com/running-on-magic/), Gusarapo Games, Meteorbyte Publishing (To be Released, 2022). [PC](https://store.steampowered.com/app/1961260/Running_on_Magic/), [Xbox One, Xbox Series X|S](https://www.xbox.com/es-ES/games/store/running-on-magic/9P0CQSRNNZ4N), [Switch](https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Running-on-Magic-2235011.html), PS4 & PS5 TBA.
 - [***Ignited Steel: Mech Tactics***](https://meteorbytestudios.com/ignitedsteel/), Yokaicade, Meteorbyte Publishing (2022). [PC](https://store.steampowered.com/app/1550740/Ignited_Steel_Mech_Tactics/), consoles TBA.
 - [***DeckRX: The Deckbuilding Racing Game***](https://meteorbytestudios.com/2021/04/26/deckrx/), Meteorbyte Studios (To be Released, 2023). [PC](https://store.steampowered.com/app/1529180/Deck_RX_The_Deckbuilding_Racing_Game/), consoles.
 - [***World Soccer Strikers '91***](https://meteorbytestudios.com/games/publishing/world-soccer-strikers-91/), Bipolar Dawn and Meteorbyte Publishing (2020, 2021). [PC](https://store.steampowered.com/app/877870/World_Soccer_Strikers_91/), [PS4, PS5](https://store.playstation.com/es-es/product/EP5321-CUSA27337_00-7337357308171115), [Xbox One, Xbox Series X|S](https://www.microsoft.com/en-us/p/world-soccer-strikers-91/9MX0CC26JG5K?activetab=pivot:overviewtab), [Switch](https://www.nintendo.com/games/detail/world-soccer-strikers-91-switch/).
