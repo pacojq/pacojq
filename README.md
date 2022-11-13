@@ -14,7 +14,7 @@
       <a href="https://github.com/pacojq/pacojq/blob/master/Paco-Juan-Quiros_Game-Programmer-Resume.pdf">
       <img alt="Twitter URL" src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=red&style=flat-square"></a>
       <a rel="me" href="https://mastodon.gamedev.place/@thapj">
-      <img alt="Mastodon URL" src="https://img.shields.io/mastodon/follow/109270584086036429?color=blue&domain=https%3A%2F%2Fmastodon.gamedev.place&style=flat-square"></a>
+      <img alt="Mastodon URL" src="https://img.shields.io/mastodon/follow/109270584086036429?color=blue&domain=https%3A%2F%2Fmastodon.gamedev.place&logo=Mastodon&style=flat-square"></a>
   </p>
 </p>
 
