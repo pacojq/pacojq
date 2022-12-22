@@ -1,5 +1,5 @@
 <h1 style="border-bottom: none;" align="center">
-    <a href="https://github.com/pacojq/">Paco Juan Quirós</a>
+    <a href="https://pacojq.github.io/">Paco Juan Quirós</a>
 </h1>
 
 <p align="center">
@@ -30,6 +30,8 @@
 - [***Woodpunk***](https://meteorbytestudios.com/games/our-games/woodpunk/), Meteorbyte Studios (2018). [PC](https://store.steampowered.com/app/878420/Woodpunk/).
 
 For a detailed view of my professional experience, please refer to my [resume](https://github.com/pacojq/pacojq/blob/master/Paco-Juan-Quiros_Game-Programmer-Resume.pdf).
+
+For a better overview of my portfolio and personal info, please chech [my personal website](https://pacojq.github.io/).
 
 ## Personal projects
 
