@@ -35,6 +35,7 @@ For a better overview of my portfolio and personal info, please chech [my person
 
 ## Personal projects
 
+- **[TexWriter](https://github.com/pacojq/TexWriter).** Shader-based texture generator, developed with C++ and OpenGL.
 - **[Xaloc Engine](https://github.com/pacojq/Xaloc).** In-development 2D engine written in C++, with C# scripting using mono.
 - **[Seagull](https://github.com/pacojq/Seagull).** Toy programming language, compiling to intermediate language. Targeting MAPL Virtual Machine, an academic virtual machine built at University of Oviedo.
 
