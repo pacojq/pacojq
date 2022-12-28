@@ -29,7 +29,7 @@
 - [***RogueCube***](https://www.ratalaikagames.com/games/roguecube.php), Bipolar Dawn and Ratalaika Games (2020). [PS4, PS5](https://store.playstation.com/en-gb/product/EP0896-CUSA14184_00-RATAGAMROGUECUBE), [Xbox One, Xbox Series X|S](https://www.microsoft.com/en-us/p/roguecube/9n0rzlp9cqhg?activetab=pivot:overviewtab), [Switch](https://www.nintendo.com/games/detail/roguecube-switch/).
 - [***Woodpunk***](https://meteorbytestudios.com/games/our-games/woodpunk/), Meteorbyte Studios (2018). [PC](https://store.steampowered.com/app/878420/Woodpunk/).
 
-For a detailed view of my professional experience, please refer to my [resume](https://github.com/pacojq/pacojq/blob/master/Paco-Juan-Quiros_Game-Programmer-Resume.pdf).
+For a detailed view of my professional experience, please refer to my [resume](https://github.com/pacojq/pacojq/blob/master/Paco-Juan-Quiros_Tools-Programmer-Resume.pdf).
 
 For a better overview of my portfolio and personal info, please chech [my personal website](https://pacojq.github.io/).
 
