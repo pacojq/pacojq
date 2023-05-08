@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>
-    Video game programmer at <a href="https://meteorbytestudios.com">Meteorbyte Studios</a>
+    Animation tech programmer at <a href="https://ioi.dk">IO Interactive</a>
     <br>
     <i>Interested in compilers and video game engines & tools.</i>
   </strong>
@@ -20,7 +20,6 @@
 
 ## Released games
 
-- ***Attrah***, Meteorbyte Studios. TBA.
 - [***Running on Magic***](https://meteorbytestudios.com/running-on-magic/), Gusarapo Games, Meteorbyte Publishing (2022). [PC](https://store.steampowered.com/app/1961260/Running_on_Magic/), [Xbox One, Xbox Series X|S](https://www.xbox.com/es-ES/games/store/running-on-magic/9P0CQSRNNZ4N), [Switch](https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Running-on-Magic-2235011.html), [PS4, PS5](https://store.playstation.com/es-es/concept/10003784).
 - ***Turnip Boy Commits Tax Evasion***, Snoozy Kazoo, Graffiti Games (2022). [PS4](https://store.playstation.com/en-us/concept/10005849), [Xbox One](https://www.xbox.com/en-US/games/store/turnip-boy-commits-tax-evasion/9n0t8v0r7mbc).
 - [***Ignited Steel: Mech Tactics***](https://meteorbytestudios.com/ignitedsteel/), Yokaicade, Meteorbyte Publishing (2022). [PC](https://store.steampowered.com/app/1550740/Ignited_Steel_Mech_Tactics/), consoles TBA.
