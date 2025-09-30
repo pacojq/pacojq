@@ -10,7 +10,8 @@
   </strong>
   <br>
   <p align="center">
-      <img alt="bsky URL" src="https://img.shields.io/twitter/url?color=blue&label=%40pacojq.xyz&logo=twitter&style=flat-square&url=https%3A%2F%2Fbsky.app%2Fprofil%2Fpacojq.xyz">
+      <a rel="me" href="https://bsky.app/profile/pacojq.xyz">
+      <img alt="bsky URL" src="https://img.shields.io/twitter/url?color=blue&label=%40pacojq.xyz&logo=twitter&style=flat-square&url=https%3A%2F%2Fbsky.app%2Fprofil%2Fpacojq.xyz"></a>
       <a href="https://github.com/pacojq/pacojq/blob/master/Paco-Juan-Quiros_Tools-Programmer-Resume.pdf">
       <img alt="PDF URL" src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=red&style=flat-square"></a>
       <a rel="me" href="https://mastodon.gamedev.place/@thapj">
