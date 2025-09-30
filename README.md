@@ -10,9 +10,9 @@
   </strong>
   <br>
   <p align="center">
-      <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=%40_thisIsPJ&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2F_thisIsPJ">
+      <img alt="bsky URL" src="https://img.shields.io/static/url?color=blue&label=%40pacojq.xyz&logo=bsky&style=flat-square&url=https%3A%2F%2Fbsky.app%2Fprofil%2Fpacojq.xyz">
       <a href="https://github.com/pacojq/pacojq/blob/master/Paco-Juan-Quiros_Tools-Programmer-Resume.pdf">
-      <img alt="Twitter URL" src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=red&style=flat-square"></a>
+      <img alt="PDF URL" src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=red&style=flat-square"></a>
       <a rel="me" href="https://mastodon.gamedev.place/@thapj">
       <img alt="Mastodon URL" src="https://img.shields.io/mastodon/follow/109270584086036429?color=blue&domain=https%3A%2F%2Fmastodon.gamedev.place&logo=Mastodon&style=flat-square"></a>
   </p>
